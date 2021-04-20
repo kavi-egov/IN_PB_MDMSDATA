@@ -1,0 +1,55 @@
+{
+  "tenantId": "in.pb",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_AMRITSAR_01",
+      "baseTenantId": "in.pb.amritsar",
+      "active": true,
+      "subDistrict": [
+        "Amritsar",
+        "Baba bakala",
+        "Ajnala"
+      ]
+    },
+    {
+      "code": "FS_JALANDHAR_01",
+      "baseTenantId": "in.pb.jalandhar",
+      "active": true,
+      "subDistrict": [
+        "jalandhar1",
+        "jalandhar2"
+      ]
+    },
+    {
+      "code": "in.pbsangrur",
+      "baseTenantId": "in.pbsangrur",
+      "active": true,
+      "subDistrict": [
+        "Sangrur",
+        "Moonak",
+        "Bhawanigarh"
+      ]
+    },
+    {
+      "code": "in.pbmalerkotla",
+      "baseTenantId": "in.pbsangrur",
+      "active": true,
+      "subDistrict": [
+        "Malerkotla",
+        "Ahmedgarh",
+        "Amargarh"
+      ]
+    },
+    {
+      "code": "in.pbsunam",
+      "baseTenantId": "in.pbsangrur",
+      "active": true,
+      "subDistrict": [
+        "Sunam",
+        "Lehragaga",
+        "Dirba"
+      ]
+    }
+  ]
+}

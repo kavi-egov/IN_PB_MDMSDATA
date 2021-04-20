@@ -1,0 +1,203 @@
+{
+  "tenantId": "in.pb",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pbphagwara"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pbnawanshahr"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pbnawanshahr"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pbnawanshahr"
+        },
+        {
+          "code": "in.pb.amritsar"
+        },
+	{
+          "code": "in.pb.mohali"
+        },
+        {
+          "code": "in.pbnayagaon"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pbnawanshahr"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }, 
+        {
+          "code": "in.pbderabassi"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pbnawanshahr"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }
+      ]
+    },
+   {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar"
+        },
+        {
+          "code": "in.pb.amritsar"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.amritsar"
+        },
+	      {
+          "code": "in.pb.jalandhar"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar",
+	  "name":"Jalandhar"
+        },
+        {
+          "code": "in.pbphagwara",
+          "name": "Phagwara"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar",
+	        "name": "Jalandhar"
+        },
+        {
+          "code": "in.pbphagwara",
+          "name": "Phagwara"
+        },
+        {
+          "code": "in.pb.amritsar",
+          "name": "Amritsar"
+        }
+      ]
+    },
+    {
+      "module": "CASE_MANAGEMENT",
+      "code": "CASE_MANAGEMENT",
+      "active": false,
+      "tenants": [
+        {
+          "code": "in.pb.jalandhar",
+          "name": "Jalandhar"
+        },
+        {
+          "code": "in.pb.amritsar",
+          "name": "Amritsar"
+        },
+        {
+          "code": "in.pbtesting",
+          "name": "Testing"
+        }
+      ]
+    }
+  ]
+}
