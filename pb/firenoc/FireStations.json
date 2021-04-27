@@ -1,10 +1,10 @@
 {
-  "tenantId": "in.pb",
+  "tenantId": "pb",
   "moduleName": "firenoc",
   "FireStations": [
     {
       "code": "FS_AMRITSAR_01",
-      "baseTenantId": "in.pb.amritsar",
+      "baseTenantId": "pb.amritsar",
       "active": true,
       "subDistrict": [
         "Amritsar",
@@ -14,7 +14,7 @@
     },
     {
       "code": "FS_JALANDHAR_01",
-      "baseTenantId": "in.pb.jalandhar",
+      "baseTenantId": "pb.jalandhar",
       "active": true,
       "subDistrict": [
         "jalandhar1",
@@ -22,8 +22,8 @@
       ]
     },
     {
-      "code": "in.pbsangrur",
-      "baseTenantId": "in.pbsangrur",
+      "code": "pbsangrur",
+      "baseTenantId": "pbsangrur",
       "active": true,
       "subDistrict": [
         "Sangrur",
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "code": "in.pbmalerkotla",
-      "baseTenantId": "in.pbsangrur",
+      "code": "pbmalerkotla",
+      "baseTenantId": "pbsangrur",
       "active": true,
       "subDistrict": [
         "Malerkotla",
@@ -42,8 +42,8 @@
       ]
     },
     {
-      "code": "in.pbsunam",
-      "baseTenantId": "in.pbsangrur",
+      "code": "pbsunam",
+      "baseTenantId": "pbsangrur",
       "active": true,
       "subDistrict": [
         "Sunam",

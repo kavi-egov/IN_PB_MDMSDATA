@@ -1,10 +1,10 @@
 {
-  "tenantId": "in.pb",
+  "tenantId": "pb",
   "moduleName": "egf-master",
   "FinancialYear": [
     {
       "id": "14",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2020-21",
       "name": "2020-21",
       "code": "2020-21",
@@ -18,7 +18,7 @@
     },
     {
       "id": "13",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2020-21",
       "name": "2020-21",
       "code": "2020-21",
@@ -32,7 +32,7 @@
     },
     {
       "id": "12",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2019-20",
       "name": "2019-20",
       "code": "2019-20",
@@ -46,7 +46,7 @@
     },
     {
       "id": "11",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2019-20",
       "name": "2019-20",
       "code": "2019-20",
@@ -60,7 +60,7 @@
     },
     {
       "id": "10",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2019-20",
       "name": "2019-20",
       "code": "2019-20",
@@ -74,7 +74,7 @@
     },
     {
       "id": "9",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2018-19",
       "name": "2018-19",
       "code": "2018-19",
@@ -88,7 +88,7 @@
     },
     {
       "id": "8",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2019-20",
       "name": "2019-20",
       "code": "2019-20",
@@ -102,7 +102,7 @@
     },
     {
       "id": "7",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2020-21",
       "name": "2020-21",
       "code": "2020-21",
@@ -116,7 +116,7 @@
     },
     {
       "id": "6",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2019-20",
       "name": "2019-20",
       "code": "2019-20",
@@ -130,7 +130,7 @@
     },
     {
       "id": "5",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2018-19",
       "name": "2018-19",
       "code": "2018-19",
@@ -144,7 +144,7 @@
     },
     {
       "id": "4",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2018-19",
       "name": "2018-19",
       "code": "2018-19",
@@ -158,7 +158,7 @@
     },
     {
       "id": "3",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2017-18",
       "name": "2017-18",
       "code": "2017-18",
@@ -172,7 +172,7 @@
     },
     {
       "id": "2",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2016-17",
       "name": "2016-17",
       "code": "2016-17",
@@ -186,7 +186,7 @@
     },
     {
       "id": "1",
-      "tenantId": "in.pb",
+      "tenantId": "pb",
       "finYearRange": "2015-16",
       "name": "2015-16",
       "code": "2015-16",

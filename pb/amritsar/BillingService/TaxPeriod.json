@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.pb.amritsar",
+  "tenantId": "pb.amritsar",
   "moduleName": "BillingService",
   "TaxPeriod": [
     {

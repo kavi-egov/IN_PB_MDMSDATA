@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.pb.jalandhar",
+  "tenantId": "pb.jalandhar",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -16,7 +16,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.pb.jalandhar",
+        "code": "pb.jalandhar",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
@@ -14375,7 +14375,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.pb.jalandhar",
+        "code": "pb.jalandhar",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",

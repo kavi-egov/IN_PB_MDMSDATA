@@ -1,9 +1,9 @@
 {
-  "tenantId": "in.pb",
+  "tenantId": "pb",
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "in.pb",
+      "code": "pb",
       "name": "Punjab",
       "description": "Punjab",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.jalandhar/logo.png",
@@ -37,7 +37,7 @@
       "pdfContactDetails": "PB_CONTACT_DETAILS"
     },
     {
-      "code": "in.pb.jalandhar",
+      "code": "pb.jalandhar",
       "name": "Jalandhar",
       "description": "Jalandhar",
       "logoId": "",
@@ -71,7 +71,7 @@
       "pdfContactDetails": "PB_JALANDHAR_CONTACT_DETAILS"
     },
     {
-      "code": "in.pbphagwara",
+      "code": "pbphagwara",
       "name": "Phagwara",
       "description": "Phagwara",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.phagwara/logo.png",
@@ -105,7 +105,7 @@
       "pdfContactDetails": "PB_PHAGWARA_CONTACT_DETAILS"
     },
     {
-      "code": "in.pb.amritsar",
+      "code": "pb.amritsar",
       "name": "Amritsar",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.amritsar/logo.png",
@@ -141,7 +141,7 @@
       "pdfContactDetails": "PB_AMRITSAR_CONTACT_DETAILS"
     },
     {
-      "code": "in.pbnawanshahr",
+      "code": "pbnawanshahr",
       "name": "Nawanshahr",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.nawanshahr/logo.png",
@@ -176,7 +176,7 @@
       "pdfContactDetails": "PB_NAWANSHAHR_CONTACT_DETAILS"
     },
     {
-      "code": "in.pb.mohali",
+      "code": "pb.mohali",
       "name": "Mohali",
       "description": "Mohali",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.mohali/logo.png",
@@ -210,7 +210,7 @@
       "pdfContactDetails": "PB_MOHALI_CONTACT_DETAILS"
     },
     {
-      "code": "in.pbnayagaon",
+      "code": "pbnayagaon",
       "name": "Nayagaon",
       "description": "Nayagaon",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.nayagaon/logo.png",
@@ -244,7 +244,7 @@
       "pdfContactDetails": "PB_NAYAGAON_CONTACT_DETAILS"
     },
     {
-      "code": "in.pbderabassi",
+      "code": "pbderabassi",
       "name": "Derabassi",
       "description": "Derabassi",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.derabassi/logo.png",

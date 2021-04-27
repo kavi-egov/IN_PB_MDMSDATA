@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.pb",
+  "tenantId": "pb",
   "moduleName": "tenant",
   "citymodule": [
     {
@@ -8,10 +8,10 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -21,13 +21,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pbphagwara"
+          "code": "pbphagwara"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -37,13 +37,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "pbnawanshahr"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -53,13 +53,13 @@
       "active": true,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "pbnawanshahr"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -69,19 +69,19 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "pbnawanshahr"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         },
 	{
-          "code": "in.pb.mohali"
+          "code": "pb.mohali"
         },
         {
-          "code": "in.pbnayagaon"
+          "code": "pbnayagaon"
         }
       ]
     },
@@ -91,16 +91,16 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "pbnawanshahr"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }, 
         {
-          "code": "in.pbderabassi"
+          "code": "pbderabassi"
         }
       ]
     },
@@ -110,13 +110,13 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pbnawanshahr"
+          "code": "pbnawanshahr"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -126,10 +126,10 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         },
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         }
       ]
     },
@@ -139,10 +139,10 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.amritsar"
+          "code": "pb.amritsar"
         },
 	      {
-          "code": "in.pb.jalandhar"
+          "code": "pb.jalandhar"
         }
       ]
     },
@@ -152,11 +152,11 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar",
+          "code": "pb.jalandhar",
 	  "name":"Jalandhar"
         },
         {
-          "code": "in.pbphagwara",
+          "code": "pbphagwara",
           "name": "Phagwara"
         }
       ]
@@ -167,15 +167,15 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar",
+          "code": "pb.jalandhar",
 	        "name": "Jalandhar"
         },
         {
-          "code": "in.pbphagwara",
+          "code": "pbphagwara",
           "name": "Phagwara"
         },
         {
-          "code": "in.pb.amritsar",
+          "code": "pb.amritsar",
           "name": "Amritsar"
         }
       ]
@@ -186,15 +186,15 @@
       "active": false,
       "tenants": [
         {
-          "code": "in.pb.jalandhar",
+          "code": "pb.jalandhar",
           "name": "Jalandhar"
         },
         {
-          "code": "in.pb.amritsar",
+          "code": "pb.amritsar",
           "name": "Amritsar"
         },
         {
-          "code": "in.pbtesting",
+          "code": "pbtesting",
           "name": "Testing"
         }
       ]

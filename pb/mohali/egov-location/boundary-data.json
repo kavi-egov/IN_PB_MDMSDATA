@@ -1,5 +1,5 @@
 {
-  "tenantId": "in.pb.mohali",
+  "tenantId": "pb.mohali",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -16,7 +16,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "in.pb.mohali",
+        "code": "pb.mohali",
         "children": [
           {
             "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
